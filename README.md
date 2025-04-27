@@ -1,6 +1,6 @@
 ## ¡Hola, hola! 👋
 
-<!--
+//<!--
 **jmrc47/jmrc47** es un repositorio ✨ _special_ ✨ repository porque su archivo `README.md` (el que está viendo usted) aparece en el perfil de GitHub de jmrc47,
 
 Aquí van algunas ideas para comenzar:
@@ -13,4 +13,4 @@ Aquí van algunas ideas para comenzar:
 - 📫 Cómo puede contactar conmigo: ...
 - 😄 Otra cosa: ...
 - ⚡ Cosas graciosas: ...
--->
+//-->
